@@ -1,0 +1,7 @@
+C:\Playground\Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Playground\Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Playground\Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Playground\Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Playground\Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

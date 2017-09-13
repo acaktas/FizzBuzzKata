@@ -1,0 +1,11 @@
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.exe
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\nunit.framework.dll
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.pdb
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.exe.config
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\bin\Debug\nunit.framework.xml
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+C:\Playground\Katas\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb
